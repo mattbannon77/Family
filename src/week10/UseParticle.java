@@ -13,7 +13,6 @@ public class UseParticle {
         System.out.println(particle);
 
         while (true) {
-
             System.out.print("Enter movement: ");
             double x = keyboard.nextDouble();
             double y = keyboard.nextDouble();
